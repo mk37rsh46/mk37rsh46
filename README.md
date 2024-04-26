@@ -2,7 +2,7 @@
 
 <!--
 **mk37rsh46/mk37rsh46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://skillicons.dev/icons?i=js,html,css,wasm
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
